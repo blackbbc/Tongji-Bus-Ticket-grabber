@@ -1,8 +1,0 @@
-http://jiading.tongji.edu.cn:8080/TJbus/GetBusServlet?route_id=1     获取路线
-
-http://jiading.tongji.edu.cn:8080/TJbus/TicketServlet?username=1352388&curtime=1415772567939&history=1 获取车票历史
-
-http://jiading.tongji.edu.cn:8080/TJbus/getTicketServlet?username=1352388&get_ticket_time=1415772567939&bus_id=1_5 
-订票
-
-http://jiading.tongji.edu.cn:8080/TJbus/SetDailyRestServlet?rest=5&bus_id=1_1   无效
